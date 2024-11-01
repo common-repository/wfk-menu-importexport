@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WFK Menu Import/Export\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-08 07:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.2.2\n"
+"X-Domain: wfk-menu-importexport"
+
+#: includes/Wfktyh_Mie_Ajax.php:23
+#: templates/page-wfktyh-menu-import-export.php:43
+#: templates/page-wfktyh-menu-import-export.php:56
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:85
+msgid "Choose File"
+msgstr ""
+
+#: includes/Admin.php:64
+msgid "Enter your menu name."
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:20
+#: templates/page-wfktyh-menu-import-export.php:61
+msgid "Export"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:83
+msgid "Files Supported Only Json"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wfk.shanto.studio"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wfk.shanto.studio/plugins/wfk-menu-import-export.zip"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:23
+#: templates/page-wfktyh-menu-import-export.php:87
+msgid "Import"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:15
+msgid "Menu Import Export"
+msgstr ""
+
+#: includes/Admin.php:23
+msgid "Menu Import/Export"
+msgstr ""
+
+#: includes/Admin.php:62
+msgid "Please give a menu name!"
+msgstr ""
+
+#: includes/Admin.php:61
+msgid "Please select a menu file!"
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:153
+msgid "Please select a unique menu, the given menu name exists."
+msgstr ""
+
+#: includes/Admin.php:63
+msgid "Please select menu!"
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:204
+msgid "Please upload your menu json file!"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:32
+msgid "Select a menu to Export:"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:80
+msgid "Select File Here"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:39
+msgid "Select Menu"
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:66
+msgid "There is no nav menu for export!"
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:149
+msgid "There was something wrong."
+msgstr ""
+
+#: templates/page-wfktyh-menu-import-export.php:74
+msgid "Upload Menu Json File"
+msgstr ""
+
+#. Description of the plugin
+msgid "Using this plugin you can export all of menu items and improt it easily"
+msgstr ""
+
+#. Name of the plugin
+msgid "WFK Menu Import/Export"
+msgstr ""
+
+#. Author of the plugin
+msgid "YH SAJIB"
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:88
+msgid "You don't have permission to make folder"
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:198
+msgid "You don't have permission to upload a file."
+msgstr ""
+
+#: includes/Wfktyh_Mie_Ajax.php:208
+msgid "Your file size is too large!"
+msgstr ""
